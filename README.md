@@ -35,4 +35,8 @@ EX 7 : Scrapper votre gpa  + crédits + log hebdomadaire, le mettre dans un txt 
 
 EX 8 : Créer un script pour scrapper les sessions HUB auxquelles vous avez participé et calculer le nombre d'XP acquis en fonction des différentes activités 
 
-# Tutoriel utile : https://www.digitalocean.com/community/tutorials/how-to-scrape-a-website-using-node-js-and-puppeteer-fr
+# Docimentation 
+https://github.com/puppeteer/puppeteer/blob/v13.1.0/docs/api.md
+
+# Tutoriel utile : 
+https://www.digitalocean.com/community/tutorials/how-to-scrape-a-website-using-node-js-and-puppeteer-fr
