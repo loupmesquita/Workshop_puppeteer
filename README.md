@@ -33,8 +33,6 @@ EX 6 : Scrapper les horaires des cours d'aujourd'hui + salle + nom des activité
 
 EX 7 : Scrapper votre gpa  + crédits + log hebdomadaire, le mettre dans un txt ou excel 
 
-EX 8 : Créer un script pour vérifier si vous êtes bien inscrit à tous vos projets
-
-EX 9 : Créer un script pour scrapper les sessions HUB auxquelles vous avez participé et calculer le nombre d'XP acquis en fonction des différentes activités 
+EX 8 : Créer un script pour scrapper les sessions HUB auxquelles vous avez participé et calculer le nombre d'XP acquis en fonction des différentes activités 
 
 # Tutoriel utile : https://www.digitalocean.com/community/tutorials/how-to-scrape-a-website-using-node-js-and-puppeteer-fr
